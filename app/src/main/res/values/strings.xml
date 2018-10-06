@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menghitung Luas Persegi Panjang</string>
+
+    <string name="description">Rumus menghitung luas persegi panjang adalah\nLuas = panjang x lebar</string>
+    <string name="input_length">Masukkan Panjang</string>
+    <string name="input_width">Masukkan Lebar</string>
+    <string name="count">Hitung</string>
+    <string name="result">Hasil</string>
+
+</resources>
